@@ -1,0 +1,23 @@
+{
+  "name": "submodule-test-main-rep-alpha",
+  "version": "1.0.0",
+  "description": "First Module to Test libraries as Submodules",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitijbahul/submodule-test-main-rep-alpha.git"
+  },
+  "keywords": [
+    "submodule"
+  ],
+  "author": "Kshitij Bahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitijbahul/submodule-test-main-rep-alpha/issues"
+  },
+  "homepage": "https://github.com/kshitijbahul/submodule-test-main-rep-alpha#readme"
+}
