@@ -1,3 +1,4 @@
 [submodule "library-folder-for-submodule-test"]
 	path = library-folder-for-submodule-test
+	branch = "main"
 	url = https://github.com/kshitijbahul/library-folder-for-submodule-test.git
