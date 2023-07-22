@@ -1,4 +1,4 @@
-const { printMessgae } = require('library-folder-for-submodule-test/utils')
+const { printMessgae } = require('./library-folder-for-submodule-test/utils')
 
 
 
